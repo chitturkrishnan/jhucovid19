@@ -1,0 +1,11 @@
+Start by cloning the JHU github repo 
+
+git clone https://github.com/CSSEGISandData/COVID-19.git
+
+you will get the csv files from the JHU repo 
+
+The python code is designed to read and display the data 
+
+will try and add additional comments, suggestions 
+
+
